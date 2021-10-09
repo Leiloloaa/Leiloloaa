@@ -1,8 +1,14 @@
 ### Hi 👋👋👋
+
+**前端攻城狮**
+- 想成为一位技术博主
+- 想进大厂，面向工资编程
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Leiloloaa)
 
 | ![Github Stats](https://github-readme-stats.vercel.app/api?username=Leiloloaa&show_icons=true&theme=buefy) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leiloloaa&show_icons=true&theme=buefy&layout=compact) |
 | -- | -- |
+
 <!--
 **Leiloloaa/Leiloloaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
