@@ -13,8 +13,7 @@
 - 🌱 博客 : [stone-blog](http://66.152.176.25:309/) welcome~ 
 - 💬 微信 : stone_cl
 - 📧 Email : Leiloloaa@gmail.com
-- 📁 掘金社区 : [石头](https://juejin.cn/user/2524134428652989)
-
+- 📁 掘金社区 : [石头怪](https://juejin.cn/user/2524134428652989)
 
 **前端攻城狮**
 
